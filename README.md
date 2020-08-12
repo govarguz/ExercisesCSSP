@@ -1,5 +1,5 @@
 # ExercisesCSSP
-Repository with some hints and solutions of exercises for the Computational Simulations in Statistical Physics Courses, imparted at the Johannes Gutenberg University in Mainz. Part of the Interdisciplinary Master in Physics.
+Repository with some hints and solutions of exercises for the Computational Simulations in Statistical Physics Courses, imparted at the Johannes Gutenberg University in Mainz. Part of the Interdisciplinary Master in Material Science.
 
 Contents:
 
